@@ -12,6 +12,12 @@ Gramateria v1.0.6 is a re-rewritten version that changed many features and code.
 
 > Although I have stopped developing this app for a while, there are still many users and I feel a little bad because of my old/dirty codes. So I decided to refactor the codes and add some features to be more useful for developers and non-developers in this v1.0.6.
 
+## Download Version 1.0.6
+#### Download for iMac
+![Download For iMac](https://drive.google.com/file/d/1VzSvflGd-F1kzPiMhuMY3qHy_374zAMj/view?usp=sharing "Download For iMac")
+
+#### Download For Windows x64
+![Download For Windows](https://github.com/MSD-Academy/gramateria/releases/download/v1.0.6/gramateria.Setup.1.0.6.exe "Download For Windows")
 
 ## Installation 
 
